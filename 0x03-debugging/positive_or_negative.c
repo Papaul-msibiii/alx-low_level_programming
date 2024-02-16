@@ -2,7 +2,7 @@
 
 /* betty style doc for function main goes there */
 /**
- * main - main function
+ * positive_or_negative - main function
  *
  * Return: always 0
  */
